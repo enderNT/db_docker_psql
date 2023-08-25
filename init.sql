@@ -1,1 +1,1 @@
-CREATE DATABASE pruebas;
+CREATE TABLE IF NOT EXISTS pruebas();
